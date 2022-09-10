@@ -1,0 +1,59 @@
+/*
+* {
+   color: rgb(24, 22, 22);
+}
+*/
+header {
+   color: rgb(165, 44, 44);
+}
+h4 {
+   color: purple;
+}
+span {
+   color: red;
+}
+a {
+   color: black;
+}
+.part-title {
+   color: rgb(14, 150, 14);
+}
+.choice-list {
+   color: rgb(153, 28, 126);
+}
+.text-end {
+   color: rgb(2, 83, 2);
+}
+#part-2 {
+   color: rgb(150, 150, 16);
+}
+p.text-link,
+li.text-link {
+   color: orangered;
+}
+.text.text-link {
+   color: rgb(57, 37, 77);
+}
+div .main-pretext {
+   color: aqua;
+}
+/*
+.text-item * {
+   color: palevioletred;
+}
+*/
+.text span {
+   color: rgb(107, 6, 6);
+}
+/*
+.text-items > li {
+   color: blue;
+}
+
+.text-items ~ li {
+   color: blue;
+}
+*/
+.text-items + p {
+   color: blue;
+}
